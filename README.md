@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isinkaye001
+- 👋 Hi, I’m @isinkaye001, MPH (Public Health Informatics, Staffordshire, UK), MBChB (Ile-Ife, Nigeria)
 - 👀 I’m interested in Bioinformatics, AI, genomics, python and R
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Data analytics
